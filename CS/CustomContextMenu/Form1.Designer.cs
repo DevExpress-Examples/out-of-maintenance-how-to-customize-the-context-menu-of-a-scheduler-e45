@@ -64,6 +64,7 @@
             this.dateNavigator1.Dock = System.Windows.Forms.DockStyle.Right;
             this.dateNavigator1.Location = new System.Drawing.Point(474, 0);
             this.dateNavigator1.Name = "dateNavigator1";
+            this.dateNavigator1.CellPadding = new System.Windows.Forms.Padding(2);
             this.dateNavigator1.SchedulerControl = this.schedulerControl1;
             this.dateNavigator1.Size = new System.Drawing.Size(179, 415);
             this.dateNavigator1.TabIndex = 1;
